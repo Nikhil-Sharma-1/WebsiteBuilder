@@ -70,15 +70,4 @@ public class WebsiteBuilder {
         writer.close();
     }
 
-    //public static void reader() throws IOException{
-    //  try ( //Creates a FileReader Object
-    //      FileReader fr = new FileReader()) {
-    //    char [] a = new char[50];
-    //fr.read(a); // reads the content to the array
-    //for(char c : a)
-    //    System.out.print(c); //prints the characters one by one
-    //}
-    //}
-   
-
 }
